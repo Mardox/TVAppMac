@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="urls">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+
+    <string name="app_name">TVAppMac</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_player">PlayerActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

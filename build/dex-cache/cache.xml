@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Hooman/Projects/TVApp/TVAppMac/app/build/pre-dexed/debug/classes-159d7e1b67a3de6646ce5f0fe9bf3e8c40f26c08.jar"
+        jar="/Users/Hooman/Projects/TVApp/TVAppMac/build/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/Hooman/Projects/TVApp/TVAppMac/app/build/pre-dexed/debug/classes-0d1536c0b6caf113926b0537e30974be8c19b39a.jar"
+        jar="/Users/Hooman/Projects/TVApp/TVAppMac/build/exploded-aar/TVAppMac/vitamio/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="921f2030a89e5f3960c4c12578de2f7595ff0c54"/>
+    <item
+        dex="/Users/Hooman/Projects/TVApp/TVAppMac/app/build/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
