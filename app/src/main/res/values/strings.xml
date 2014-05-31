@@ -12,10 +12,10 @@
     </string-array>
 
     <string-array name="urls">
-        <item>rtsp://202.159.213.30:554/zeetv_mobC.sdp?tokan=923152409036</item>
-        <item>http://79.142.196.146:8888/udp/239.1.3.212:1234</item>
-        <item>rtsp://46.249.213.93/broadcast/filmsofindia-tablet.3gp</item>
-        <item>rtsp://46.249.213.87/broadcast/bollywoodcinema1-tablet.3gp</item>
+        <item>rtsp://46.249.213.87/broadcast/bollywoodnirvanamusic-tablet.3gp</item>
+        <item>rtsp://46.249.213.87/broadcast/bollywoodgossip-tablet.3gp</item>
+        <item>rtsp://46.249.213.93/broadcast/hindimovies-tablet.3gp</item>
+        <item>rtsp://46.249.213.93/broadcast/primetv-tablet.3gp</item>
     </string-array>
 
     <string name="admob_id_home" >ca-app-pub-3230884902788293/4367860799</string>
