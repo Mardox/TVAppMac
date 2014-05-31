@@ -2,17 +2,50 @@
 <resources>
 
 
-    <string-array name="urls">
-        <item></item>
-        <item></item>
-        <item></item>
+    <string name="app_name">TVAppMac</string>
+
+    <string-array name="titles">
+        <item>BOLLYWOOD İRVANA</item>
+        <item>CHANNEL S</item>
+        <item>FİLM OF INDIANA</item>
+        <item>BOLLYWOOD CİNEMA</item>
     </string-array>
 
+    <string-array name="urls">
+        <item>rtsp://202.159.213.30:554/zeetv_mobC.sdp?tokan=923152409036</item>
+        <item>http://79.142.196.146:8888/udp/239.1.3.212:1234</item>
+        <item>rtsp://46.249.213.93/broadcast/filmsofindia-tablet.3gp</item>
+        <item>rtsp://46.249.213.87/broadcast/bollywoodcinema1-tablet.3gp</item>
+    </string-array>
 
-    <string name="app_name">TVAppMac</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="admob_id_home" >ca-app-pub-3230884902788293/4367860799</string>
+    <string name="admob_id_interstitials" >ca-app-pub-3230884902788293/9547951199</string>
+
     <string name="title_activity_player">PlayerActivity</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="rating_response">
+        <item>Rate Now!</item>
+        <item>Ask Me Later</item>
+        <item>No Thanks</item>
+    </string-array>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="rate_offer_title">Please Rate Our App! :-)</string>
+
+    <string name="upgrade_complete_dialog_title">Thanks a Million!</string>
+    <string name="upgrade_complete_dialog_body_text">You are awesome for upgrading the App and supporting us. We just removed the Ads and added better features for you.</string>
+    <string name="upgrade_offer_title">Upgrade The App Now</string>
+    <string name="upgrade_offer_text">Remove the Ads and unlock premium search by upgrading!</string>
+
+    <string name="upgrade_error_dialog_title">Something Went Wrong</string>
+    <string name="upgrade_error_dialog_body_text">Something went wrong with your purchase, please try again or contact support@30daylabs.com.</string>
+
+    <!--<string name="premium_product_id">android.test.purchased</string>-->
+    <string name="premium_product_id">premium</string>
+    <string name="settings">App Settings</string>
+
 
 </resources>

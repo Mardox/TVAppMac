@@ -1,5 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <color name="black_overlay">#66000000</color>
-
+    <color name="second_grey">#ff999999</color>
+    <color name="text_dark_grey">#616161</color>
+    <color name="text_grey">#7f7f7f</color>
+    <color name="card_white">#ffffffff</color>
+    <color name="card_shadow">#8c666666</color>
+    <color name="background_grey">#ffc6c6c6</color>
+    <color name="black">#ff000000</color>
+    <color name="black_transparent">#80000000</color>
+    <color name="time_gradient_start">#00000000</color>
+    <color name="time_gradient_end">#E6000000</color>
 </resources>
