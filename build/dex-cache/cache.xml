@@ -2,12 +2,6 @@
 <pre-dex-items>
 
     <item
-        dex="C:\Users\HooMan\Documents\GitHub\TVAppMac\app\build\pre-dexed\debug\libGoogleAnalyticsServices-a1199129e2c49e26cda214b773d1d2ee8c951426.jar"
-        jar="C:\Users\HooMan\Documents\GitHub\TVAppMac\app\libs\libGoogleAnalyticsServices.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813"/>
-    <item
         dex="C:\Users\HooMan\Documents\GitHub\TVAppMac\app\build\pre-dexed\debug\classes-d716c415665a071290d04efd6a5a0194f2009d8e.jar"
         jar="C:\Users\HooMan\Documents\GitHub\TVAppMac\build\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
         jumboMode="false"
@@ -26,16 +20,22 @@
         revision="19.1.0"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
     <item
+        dex="C:\Users\HooMan\Documents\GitHub\TVAppMac\vitamio-sample\build\pre-dexed\debug\classes-fc205e9e81c8ebfb7bbade07cd090e249f2b5dd4.jar"
+        jar="C:\Users\HooMan\Documents\GitHub\TVAppMac\build\exploded-aar\TVAppMac\vitamio\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="51976070d45e6a7745d08ffc0b0c2cbacf77aaf8"/>
+    <item
+        dex="C:\Users\HooMan\Documents\GitHub\TVAppMac\app\build\pre-dexed\debug\libGoogleAnalyticsServices-a1199129e2c49e26cda214b773d1d2ee8c951426.jar"
+        jar="C:\Users\HooMan\Documents\GitHub\TVAppMac\app\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813"/>
+    <item
         dex="C:\Users\HooMan\Documents\GitHub\TVAppMac\app\build\pre-dexed\debug\support-v13-18.0.0-18c6bd40bb4f901a478b8e83adcec21139476a2b.jar"
         jar="D:\Android SDK\sdk\extras\android\m2repository\com\android\support\support-v13\18.0.0\support-v13-18.0.0.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="6a2fa0c0b54359ee359fd40244e1ce2dc6cab408"/>
-    <item
-        dex="C:\Users\HooMan\Documents\GitHub\TVAppMac\app\build\pre-dexed\debug\classes-fc205e9e81c8ebfb7bbade07cd090e249f2b5dd4.jar"
-        jar="C:\Users\HooMan\Documents\GitHub\TVAppMac\build\exploded-aar\TVAppMac\vitamio\unspecified\classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="c782d47ff3cbccedfa2e9524f1750c1b426fc1e9"/>
 
 </pre-dex-items>

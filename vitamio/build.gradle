@@ -5,7 +5,8 @@ dependencies {
 
 android {
     compileSdkVersion 19
-    buildToolsVersion '19.0.1'
+    buildToolsVersion '19.1.0'
+
     defaultConfig {
         minSdkVersion 11
         targetSdkVersion 19
@@ -21,8 +22,5 @@ android {
         }
 
     }
-    productFlavors {
-    }
-    buildTypes {
-    }
+
 }

@@ -3,7 +3,7 @@
     <!-- ##todo: change the analytics-->
 
     <!--Replace placeholder ID with your tracking ID-->
-    <string name="ga_trackingId">UA-45626324-3</string>
+    <string name="ga_trackingId">UA-51243617-5</string>
 
     <!--Enable automatic activity tracking-->
     <bool name="ga_autoActivityTracking">true</bool>

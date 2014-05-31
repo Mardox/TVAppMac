@@ -2,24 +2,28 @@
 <resources>
 
 
-    <string name="app_name">TVAppMac</string>
+    <string name="app_name">Korean Live TV</string>
 
     <string-array name="titles">
-        <item>BOLLYWOOD İRVANA</item>
-        <item>CHANNEL S</item>
-        <item>FİLM OF INDIANA</item>
-        <item>BOLLYWOOD CİNEMA</item>
+        <item>ARTE</item>
+        <item>STREE</item>
+        <item>CGN</item>
+        <item>INET</item>
+        <item>FS</item>
+        <item>GMB</item>
     </string-array>
 
     <string-array name="urls">
-        <item>rtsp://46.249.213.87/broadcast/bollywoodnirvanamusic-tablet.3gp</item>
-        <item>rtsp://46.249.213.87/broadcast/bollywoodgossip-tablet.3gp</item>
-        <item>rtsp://46.249.213.93/broadcast/hindimovies-tablet.3gp</item>
-        <item>rtsp://46.249.213.93/broadcast/primetv-tablet.3gp</item>
+        <item>http://lm02.everyon.tv:1935/ptv2/phd1/sansar.m3u8</item>
+        <item>http://lm01.everyon.tv:1935/ptv/phd197/sansar.m3u8</item>
+        <item>http://lm01.everyon.tv:1935/ptv/phd2352/sansar.m3u8</item>
+        <item>http://lm02.everyon.tv:1935/ptv2/phd263/sansar.m3u8</item>
+        <item>http://lm03.everyon.tv:1935/ptv3/phd269/sansar.m3u8</item>
+        <item>http://lm03.everyon.tv:1935/ptv3/phd275/sansar.m3u8</item>
     </string-array>
 
-    <string name="admob_id_home" >ca-app-pub-3230884902788293/4367860799</string>
-    <string name="admob_id_interstitials" >ca-app-pub-3230884902788293/9547951199</string>
+    <string name="admob_id_home" >ca-app-pub-7607380003153721/2787575495</string>
+    <string name="admob_id_interstitials" >ca-app-pub-7607380003153721/4264308690</string>
 
     <string name="title_activity_player">PlayerActivity</string>
     <string name="action_settings">Settings</string>
@@ -46,6 +50,11 @@
     <!--<string name="premium_product_id">android.test.purchased</string>-->
     <string name="premium_product_id">premium</string>
     <string name="settings">App Settings</string>
+
+    <string name="PublicKey">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqABVgQ7gk1lRqKI/BSyvqLuAhLxRQA2m4sd9p6vgM9FVSxdV5+TFctdYWkTGcGq8ele3xPAwoDqdPSLZT16oc8w4DRvxUD3SKdhmOePpYSDxhPRA7xPvdRarWjr4HqEr/AOcL3Oz1V3vs1gQ5rBkak8BsdHa/YIFxpjXQ8WYKJnGxyzz6yR21UltjSnM0AiGKt+AKsxk9KZylrb80PMOqv9K+iNSP4BNQ+iBF7bDWqbDuoROs9cK5P+JlGfBNb6irseEFms4jJzzkZcvf1K2szKyraVu59hihzMO64fSuaeHItMMBTZnoqN3heqxL4086Yp9kOFcDytSCQcPElp+DwIDAQAB</string>
+
+    <string name="developer">ModernApps</string>
+    <string name="email">support@modernapps.biz</string>
 
 
 </resources>
